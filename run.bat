@@ -1,0 +1,2 @@
+C:\Users\UserVikashSharman\git\RahulshettyProject\SeleniumFrameworkDesign
+mvn clean install
